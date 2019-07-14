@@ -10,7 +10,9 @@ function send($phone){
         curl_setopt($ch, CURLOPT_POSTFIELDS, "msisdn=$phone&accept=call");                        $asw = curl_exec($ch);
         curl_close($ch);
                 echo $asw."\n";
-}    
+cowsay -f eyes My Tools | lolcat
+figlet wisnu saputra  | lolcat
+toilet -f standard welcome -F gay    
 echo "AUTHOR ; WisnuSaputra\n\n";
 echo "Nomor\nInput : ";
 $nomor = trim(fgets(STDIN));
