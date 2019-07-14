@@ -1,3 +1,4 @@
+
 import os,time,sys,shutil
 
 class Main:
@@ -10,17 +11,19 @@ class Main:
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 		;       S P A M  S M S      ;
 		;---------------------------;
-		; Author : Wisnu-saputra    ;
-		; instagram : wisnu_as123   ;
+		; Author  : Kang-newbie     ;
+		; Contact : t.me/kang_nuubi ;
+;               ; script  : wisnu-saputra.  ;
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
 1. Spam TRI
 2. Spam Grab
 3. Spam HooqTV
 4. Spam OYOROOMS
-5. Spam Telkomsel
+5. Spam TelkomNyet
 6. Spam Sms Gratis
 """)
-		pilih=int(input('/Wisnu-saputra: '))
+		pilih=int(input('/Kang-newbie: '))
 		if pilih == 1:
 			import src.sms
 		elif pilih == 2:
@@ -32,12 +35,13 @@ class Main:
 		elif pilih == 5:
 			print("""
 		;;;;;;;;;;;;;;;;;;;
-		; Spam Telkomsel ;
+		; Spam TelkomNyet ;
 		;;;;;;;;;;;;;;;;;;;
-1. Spam Telkomsel-v1
-2. Spam Telkomsel-v2
+
+1. Spam TelkomNyet-v1
+2. Spam TelkomNyet-v2
 """)
-			pilihlagi=int(input('/Wisnu-saputra: '))
+			pilihlagi=int(input('/Kang-newbie: '))
 			if pilihlagi == 1:
 				import src.telnyet
 			elif pilihlagi == 2:
