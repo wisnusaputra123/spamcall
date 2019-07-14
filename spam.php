@@ -11,7 +11,9 @@ function send($phone){
         curl_close($ch);
                 echo $asw."\n";
 }
-echo "COPYRIGHT ; SGBTEAM\n\n";
+figlet wisnu
+ instagram =wisnu_as123       
+echo "AUTHOR ; WisnuSaputra\n\n";
 echo "Nomor\nInput : ";
 $nomor = trim(fgets(STDIN));
 $execute = send($nomor);
