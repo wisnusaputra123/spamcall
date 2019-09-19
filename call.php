@@ -114,8 +114,8 @@ echo $green."
 
 ╔═╗┌─┐┌─┐┌┬┐  ╔═╗┌─┐┬  ┬  
 ╚═╗├─┘├─┤│││  ║  ├─┤│  │  
-╚═╝┴  ┴ ┴┴ ┴  ╚═╝┴ ┴┴─┘┴─┘\n".$blue. By Wisnu Saputra\n".$yellow.
-"Spammer Grab";
+╚═╝┴  ┴ ┴┴ ┴  ╚═╝┴ ┴┴─┘┴─┘\n".$blue. 
+"By Wisnu Saputra";
 echo $red."
 [!] Author   : WisnuSaputra						[!]
 [!] Youtube  : www.youtube.com/DSVplankton   [!]
