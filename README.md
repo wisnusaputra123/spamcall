@@ -1,2 +1,0 @@
-# spamcl
-Spam call
