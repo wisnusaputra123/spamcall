@@ -1,18 +1,18 @@
 # spamerCALL
-by404rgr
+By WISNU SAPUTRA
 
 # cara install
       apt update
       apt upgrade
       apt install git
       apt install python
-      git clone https://github.com/404rgr/spamerCALL
-      cd spamerCALL
+      git clone https://github.com/wisnusaputra123/spamcall
+      cd spamcall
       pip install -r requirements.txt
-      python spamercall.py
+      python call.py
    #Enjoy...
 
 # folow me
-      Instagram: pausi404
-      Github   : https://github.com/404rgr
-      youtube  : Pausi Channel
+      Instagram: wisnu_as123
+      Github   : https://github.com/wisnusaputra123
+      youtube  : DSV plankton
