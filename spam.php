@@ -91,7 +91,7 @@ class prankcall{
 			if($loop=="y" OR $loop=="n"){
 				break;
 			}else{
-				echo "Jika ya jawab y jika tidak jawab n\n";
+				echo "Lanjutkan jawab Y jika tidak jawab N\n";
 				continue;
 			}
 		}
@@ -105,21 +105,21 @@ class prankcall{
 	}
 }
 echo " \n";
-echo " Tutor ini dibuat Oleh HK-162\n";
+echo " Memulai Untuk Spam Telepon\n";
 echo " \n";
 echo " \n";
 echo "________________________________________________\n";
 echo " \n";
 echo " \n";
-echo "  ____                         ____ _
-/ ___| _ __   __ _ _ __ ___  / ___| |
-\___ \| '_ \ / _` | '_ ` _ \| |   | |
- ___) | |_) | (_| | | | | | | |___| |___
-|____/| .__/ \__,_|_| |_| |_|\____|_____|
+echo "  ____                        
+/ ___| _ __   __ _ _ __ ___  
+\___ \| '_ \ / _` | '_ ` _ \|
+ ___) | |_) | (_| | | | | | |
+|____/| .__/ \__,_|_| |_| |_|BY= wisnu saputra
       |_|
  masukan nomor dengan awalan 62 bukan 0
 
-by: HK-162\n";
+by: W15NU\n";
 echo " \n";
 sleep ('0.4');
 echo "====> Masukan No Target = ";
