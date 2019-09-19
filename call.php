@@ -118,8 +118,8 @@ echo $green."
 "Spammer Grab";
 echo $red."
 [!] Author   : WisnuSaputra						[!]
-[!] Youtube  : www.youtube.com/MAULANARyM   [!]
-[!] github   : github.com/MaulanaRyM        [!]\n";
+[!] Youtube  : www.youtube.com/DSVplankton   [!]
+[!] github   : github.com/wisnusaputra123        [!]\n";
 echo $green."
 ======================================
 |[!]  Jangan Salah Gunakan Yaa Sob [!]|
