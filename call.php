@@ -134,5 +134,5 @@ echo " \n";
 sleep ('0.4');
 echo "root@.Wisnu=# Masukan No Hp Target #-> ";
 $no = get();
-$n = new spamcall($no);
+$n = new Prank call($no);
 $n->run();
